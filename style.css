@@ -9,3 +9,9 @@
     background-image: url("C:/Users/keski/Desktop/github-sample/Calculator_Plus/bgImg.jpg");
     margin:40px auto;
 }
+#call{
+    width:320px;
+    height:520px;
+    background-color:#7867c2;
+    margin:0 auto;
+}
